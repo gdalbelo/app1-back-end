@@ -1,0 +1,20 @@
+{
+  "name": "node-api",
+  "main": "server.js",
+  "dependencies": {
+    "async": "1.5.2",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "1.15.1",
+    "compression": "1.6.2",
+    "cors": "2.7.1",
+    "express": "4.13.4",
+    "firebase": "2.4.0",
+    "goo.gl": "0.1.4",
+    "jsonwebtoken": "7.0.0",
+    "moment": "2.13.0",
+    "mongoose": "4.4.20",
+    "node-rest-client": "1.8.0",
+    "querystring": "0.2.0",
+    "request": "2.72.0"
+  }
+}
